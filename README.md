@@ -1,10 +1,10 @@
 
+Practice Fusion had made an anonymized electronic health records (EHR) dataset on Kaggle. These ipython Notebook analyzes the data and use them to build machine and Deep learning models to make some predictions.
 
-Data Analysis, Feature preparation and Machine Learning Models were done using iPython Notebook. Python version used was 3.5. Also Pandas, Numpy, Matplotlib, Seaborn, Scikit Learn and Tensorflow were used. 
 
 Here is the folder structure for the attached zip file -
 
-* Data Analysis of Practice Fusion Data.ipynb - This file has code to analyze data. This file also has answers to all data related questions that were asked in the assignment.
+* Data Analysis of Practice Fusion Data.ipynb - This file has code to analyze and understand data.
 
 * Feature preparation with Medication Types.ipynb - This file has the code to build the input features for Medicine Types. Features build here are used for Machine Learning Models.
 
@@ -16,7 +16,7 @@ Here is the folder structure for the attached zip file -
 
 * Merge_all_additional_features.ipynb - This file combines all the features into a single file that can be fed to Machine Learning models.
 
-* Implementation of Machine Learning Models with additional features.ipynb - This notebook implements the machine learning models using additional data. Also, analyzes and presents the results
+* Implementation of Machine Learning Models with additional features.ipynb - This notebook implements the machine learning models using all the data. Also, analyzes and presents the results.
 
-* Neural_network_implementation with additional features.ipynb - This notebook implementa the Deep Learning models with additional features using tensorflow.
+* Neural_network_implementation with additional features.ipynb - This notebook implementa the Deep Learning models with all features using tensorflow.
 
